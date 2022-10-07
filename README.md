@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am Vaneela Khatri
-<img width="500"  src="https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png"/>
+
 <img src= "https://i.giphy.com/media/2KAGlmkPywhZS/giphy.webp" width="200"/>
 
 
