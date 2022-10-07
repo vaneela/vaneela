@@ -1,12 +1,12 @@
 <h2 align ="center">
-# Hi I'm Vaneela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+# Hi I'm Vaneela Khatri<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
 <br>
   <br>
 <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b520fede0a06c3d727d1e81d5fb52cb1acce9432&rid=giphy.gif&ct=g" >
 </h2>
 
 # 💫 About Me:
-I am a second year BCA student at JECRC University, Jaipur persuing BCA(Bachelor of Computer Applications), graduating in year 2023. I have an overall 7.3 gpa till 3rd semester. I am an aspiring  Software Developer. I have made few projects on Web Development. I am comfortable with C++ for Data Structures and Algorithms. I have solved 300+ questions on leetcode and geeksforgeeks
+I am a second year student at JECRC University, Jaipur persuing BCA(Bachelor of Computer Applications), graduating in year 2023. I have an overall 7.3 gpa till 3rd semester. I am an aspiring  Software Developer. I have made few projects on Web Development. I am comfortable with C++ for Data Structures and Algorithms. I have solved 300+ questions on leetcode and geeksforgeeks
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaneela-khatri-838998220) 
