@@ -23,7 +23,9 @@ I am a second year student at JECRC University, Jaipur persuing BCA(Bachelor of 
 ![](https://github-readme-stats.vercel.app/api?username=vaneela&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaneela&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaneela&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </h1>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
