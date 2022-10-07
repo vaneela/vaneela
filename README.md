@@ -2,9 +2,8 @@
 # 💫 About Me:
 I am Vaneela Khatri
 
-<img src="[https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png%22/%3E](https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png)" width="500"/>
-
 <img src= "https://i.giphy.com/media/2KAGlmkPywhZS/giphy.webp" width="200"/>
+<img src="https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png"/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaneela-khatri-838998220) 
 <br>
