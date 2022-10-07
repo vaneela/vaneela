@@ -5,7 +5,7 @@
 # 💫 About Me:
 I am Vaneela Khatri
 
-<img src= "https://i.giphy.com/media/2KAGlmkPywhZS/giphy.webp" width="200"/>## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaneela-khatri-838998220) 
 <br>
 
