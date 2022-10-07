@@ -10,7 +10,7 @@
 I am a second year student at JECRC University, Jaipur persuing BCA(Bachelor of Computer Applications), graduating in year 2023. I have an overall 7.3 gpa till 3rd semester. I am an aspiring  Software Developer. I have made few projects on Web Development. I am comfortable with C++ for Data Structures and Algorithms. I have solved 300+ questions on leetcode and geeksforgeeks
 </h3>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaneela-khatri-838998220) 
 <br>
 
