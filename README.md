@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png"/>
+<img width="500" src="https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png"/>
 # 💫 About Me:
 I am Vaneela Khatri
 
