@@ -6,11 +6,13 @@
 </div>
   
 ## :smiley: About Me:
-<p> I am final year student at JECRC University, persuing BCA(Bachelor of Computer Applications), graduating in year 2023. I have an overall 7.6 cgpa till 4th semester. I am an aspiring  Software Developer. I am comfortable with C++ for Data Structures and Algorithms. I have solved 450+ questions on leetcode and geeksforgeeks.
+<p> I am experienced Software Developer and Mentor, graduated in year 2023. I have one year of Full-time experience working with Springboot, AngularJs, Linux, MySql and Python, have mentored 500+ students so far. I solve DSA problems using C++. I have solved 550+ questions on leetcode and geeksforgeeks.
 </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaneela-khatri-838998220) 
+
+[![Topmate.io](https://topmate.io/vaneela_khatri/) 
 <br>
 
 
