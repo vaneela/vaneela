@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaneela-khatri-838998220) 
 
-[![Topmate.io](https://topmate.io/vaneela_khatri/) 
+[![Topmate.io](https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=384&q=75)](https://topmate.io/vaneela_khatri/) 
 <br>
 
 
